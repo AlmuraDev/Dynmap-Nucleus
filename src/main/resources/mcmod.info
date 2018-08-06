@@ -1,7 +1,7 @@
 [{
     "modid": "dynmap-nucleus",
-    "name": "Dynmap-Nucleus",
-    "version":  "${project.version}-${BUILD_NUMBER}",
+    "name": "Dynmap for Nucleus",
+    "version":  "0.4-S7.1",
     "description": "Nucleus support for Dynmap",
     "authorList": [
 		"mikeprimm"
